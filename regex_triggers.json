@@ -103,7 +103,7 @@
     {
       "name": "TwistMC",
       "kind": "SERVER_IP",
-      "data": "^5.161.95.232$",
+      "data": "^twistmc\\.net$",
       "messagePrefix": "",
       "triggers": [
         {
