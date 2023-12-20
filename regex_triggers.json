@@ -111,10 +111,6 @@
           "pattern": "-------------  Game Over ---------------"
         },
         {
-          "type": 0,
-          "pattern": "^-+\\u0020Game Over -+$"
-        },
-        {
           "type": 2,
           "pattern": "^\\d+ [A-Z ]+ (?:. )?\\w{1,16} (?:${antigg_strings})$"
         }
