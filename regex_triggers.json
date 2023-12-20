@@ -101,14 +101,14 @@
       ]
     },
     {
-      "name": "Mineplex Server",
+      "name": "TwistMC",
       "kind": "SERVER_IP",
-      "data": "^(?:(?:us|eu)\\.)?mineplex\\.com$",
+      "data": "^twistmc\\.net$",
       "messagePrefix": "",
       "triggers": [
         {
           "type": 0,
-          "pattern": "^ .* won the game!$"
+          "pattern": "-------------  Game Over ---------------"
         },
         {
           "type": 0,
