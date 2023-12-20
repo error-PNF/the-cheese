@@ -112,7 +112,7 @@
         },
         {
           "type": 0,
-          "pattern": "^ 1st Place \\w{1,16}(?:, \\w{1,16})*$"
+          "pattern": "^-+\\u0020Game Over -+$"
         },
         {
           "type": 2,
